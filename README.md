@@ -1,6 +1,6 @@
 # 3DoF Robotic Arm Control using MATLAB and SolidWorks
 
-Integration between MATLAB and SolidWorks to control a 3DoF Robotic Arm using inverse Denavit-Hartenberg kinematics.
+Integration between MATLAB and SolidWorks to control a 3DoF Robotic Arm using Denavit-Hartenberg inverse kinematics.
 
 Included in this files you can find:
   - SolidWorks model I used to get the describe the robot along with squematics
