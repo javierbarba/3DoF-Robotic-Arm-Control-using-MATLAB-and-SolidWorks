@@ -9,8 +9,5 @@ Included in this files you can find:
   - MATLAB function for inverse kinematics using Denavit-Hartenberg (used to control the robot)
   - MATLAB/SolidWorks integration in MATLAB.
   
-If you have any suggestion, please contact me at a.129137@ulsa-noroeste.edu.mx
-Have fun learning,
-Javier.
 
 "Share your knowledge. It is a way to achieve immortality" - Dalai Lama XIV.
